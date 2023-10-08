@@ -20,5 +20,27 @@
     "DownloadLinkUpdate": "https://github.com/Adalyia/Wordsmith-DalamudPlugin/releases/latest/download/Wordsmith.zip",
     "IconUrl": "https://raw.githubusercontent.com/Adalyia/Wordsmith-DalamudPlugin/master/images/icon.png",
     "Changelog": "Release 1.9.2 - 6.5 Compatibility"
+  },
+  {
+    "Author": "Asriel Camora & daemitus",
+    "Name": "Something Need Doing",
+    "Punchline": "Work work.",
+    "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
+    "InternalName": "SomethingNeedDoing",
+    "AssemblyVersion": "1.5.0.0",
+    "TestingAssemblyVersion": "1.5.0.0",
+    "RepoUrl": "https://github.com/Adalyia/SomethingNeedDoing",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/Adalyia/SomethingNeedDoing/releases/latest/download/SomethingNeedDoing.zip",
+    "DownloadLinkTesting": "https://github.com/Adalyia/SomethingNeedDoing/releases/latest/download/SomethingNeedDoing.zip",
+    "DownloadLinkUpdate": "https://github.com/Adalyia/SomethingNeedDoing/releases/latest/download/SomethingNeedDoing.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Adalyia/SomethingNeedDoing/main/res/icon.png",
+    "Changelog": "Release 1.5.0.0 - 6.5 Compatibility"
   }
 ]
