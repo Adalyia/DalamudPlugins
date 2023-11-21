@@ -40,7 +40,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Automatically records your adventures in Eorzea.",
-    "AcceptsFeedback": true
+    "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/Adalyia/RPLogger",
     "IsHide": "False",
     "IsTestingExclusive": "False",
