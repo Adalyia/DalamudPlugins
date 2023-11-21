@@ -25,10 +25,10 @@
     "Author": "Ada Lyia",
     "Name": "RP Logger",
     "InternalName": "RPLogger",
-    "Punchline": "Automatically records your adventures in Eorzea.",
+    "Punchline": "An automated scribe documenting your adventures in Eorzea",
     "Description": "A simple plugin for writing certain chat channels into text file(s). /rpl for options.",
-    "AssemblyVersion": "1.0.0.1",
-    "TestingAssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.1.0.0",
+    "TestingAssemblyVersion": "1.1.0.0",
     "RepoUrl": "https://github.com/Adalyia/RPLogger",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -41,6 +41,6 @@
     "DownloadLinkTesting": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Adalyia/RPLogger/main/images/icon.png",
-    "Changelog": "Release 1.0.0.1 - Fixed settings button"
+    "Changelog": "Release 1.1.0.0 - Logging support for CWLS, LS, and Alliance Channels & More time/structure options!"
   }
 ]
