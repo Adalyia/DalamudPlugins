@@ -40,7 +40,7 @@
     "DownloadLinkInstall": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Adalyia/RPLogger/main/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Adalyia/RPLogger/master/images/icon.png",
     "Changelog": "Release 1.1.0.0 - Logging support for CWLS, LS, and Alliance Channels & More time/structure options!"
   }
 ]
