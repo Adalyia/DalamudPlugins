@@ -27,8 +27,8 @@
     "InternalName": "RPLogger",
     "Punchline": "Automatically records your adventures in Eorzea.",
     "Description": "A simple plugin for writing certain chat channels into text file(s). /rpl for options.",
-    "AssemblyVersion": "1.0.0.0",
-    "TestingAssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
+    "TestingAssemblyVersion": "1.0.0.1",
     "RepoUrl": "https://github.com/Adalyia/RPLogger",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -41,6 +41,6 @@
     "DownloadLinkTesting": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Adalyia/RPLogger/main/images/icon.png",
-    "Changelog": "Release 1.0.0.0 - Initial Release"
+    "Changelog": "Release 1.0.0.1 - Fixed settings button"
   }
 ]
