@@ -20,5 +20,37 @@
     "DownloadLinkUpdate": "https://github.com/Adalyia/SomethingNeedDoing/releases/latest/download/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Adalyia/SomethingNeedDoing/main/res/icon.png",
     "Changelog": "Release 1.4.2.1 - Fixed repair_all click"
+  },
+  {
+    "Author": "Ada Lyia",
+    "Name": "RP Logger",
+    "InternalName": "RPLogger",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "A simple plugin for writing certain chat channels into text file(s). /rpl for options.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "roleplaying",
+      "chat",
+      "rp",
+      "logging"
+    ],
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Automatically records your adventures in Eorzea.",
+    "AcceptsFeedback": true
+    "RepoUrl": "https://github.com/Adalyia/RPLogger",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Adalyia/RPLogger/main/images/icon.png",
+    "Changelog": "Release 1.0.0.0 - Initial Release"
   }
 ]
