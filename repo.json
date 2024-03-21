@@ -27,8 +27,8 @@
     "InternalName": "RPLogger",
     "Punchline": "An automated scribe documenting your adventures in Eorzea",
     "Description": "An automated scribe documenting your adventures in Eorzea. /rpl for configuration.",
-    "AssemblyVersion": "1.2.0.7",
-    "TestingAssemblyVersion": "1.2.0.7",
+    "AssemblyVersion": "1.2.0.8",
+    "TestingAssemblyVersion": "1.2.0.8",
     "RepoUrl": "https://github.com/Adalyia/RPLogger",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -41,7 +41,7 @@
     "DownloadLinkTesting": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Adalyia/RPLogger/master/images/icon.png",
-    "Changelog": "Release 1.2.0.7 - Fixed bug that could create an erroneous log file"
+    "Changelog": "Release 1.2.0.8 - .NET 8"
   },
   {
     "Author": "Ada Lyia",
@@ -49,8 +49,8 @@
     "InternalName": "SubDataLogger",
     "Punchline": "Automates logging of voyage loot.",
     "Description": "Automates logging of voyage loot. /sdata",
-    "AssemblyVersion": "0.0.0.3",
-    "TestingAssemblyVersion": "0.0.0.3",
+    "AssemblyVersion": "0.0.0.4",
+    "TestingAssemblyVersion": "0.0.0.4",
     "RepoUrl": "https://github.com/Adalyia/SubDataLogger",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -62,6 +62,6 @@
     "DownloadLinkInstall": "https://github.com/Adalyia/SubDataLogger/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/Adalyia/SubDataLogger/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Adalyia/SubDataLogger/releases/latest/download/latest.zip",
-    "Changelog": "Release 0.0.0.3 - Initial Release"
+    "Changelog": "Release 0.0.0.4 - .NET 8"
   }
 ]
