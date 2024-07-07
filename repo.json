@@ -49,11 +49,11 @@
     "InternalName": "SubDataLogger",
     "Punchline": "Automates logging of voyage loot.",
     "Description": "Automates logging of voyage loot. /sdata",
-    "AssemblyVersion": "0.0.0.5",
-    "TestingAssemblyVersion": "0.0.0.5",
+    "AssemblyVersion": "0.0.0.6",
+    "TestingAssemblyVersion": "0.0.0.6",
     "RepoUrl": "https://github.com/Adalyia/SubDataLogger",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 9,
+    "DalamudApiLevel": 10,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
@@ -62,6 +62,6 @@
     "DownloadLinkInstall": "https://github.com/Adalyia/SubDataLogger/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/Adalyia/SubDataLogger/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Adalyia/SubDataLogger/releases/latest/download/latest.zip",
-    "Changelog": "Release 0.0.0.5 - Patch to hopefully ignore low level subs"
+    "Changelog": "Release 0.0.0.6 - Dawntrail"
   }
 ]
