@@ -27,11 +27,11 @@
     "InternalName": "RPLogger",
     "Punchline": "An automated scribe documenting your adventures in Eorzea",
     "Description": "An automated scribe documenting your adventures in Eorzea. /rpl for configuration.",
-    "AssemblyVersion": "1.2.0.8",
-    "TestingAssemblyVersion": "1.2.0.8",
+    "AssemblyVersion": "1.2.0.9",
+    "TestingAssemblyVersion": "1.2.0.9",
     "RepoUrl": "https://github.com/Adalyia/RPLogger",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 9,
+    "DalamudApiLevel": 10,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
@@ -41,7 +41,7 @@
     "DownloadLinkTesting": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Adalyia/RPLogger/master/images/icon.png",
-    "Changelog": "Release 1.2.0.8 - .NET 8"
+    "Changelog": "Release 1.2.0.9 - Dawntrail"
   },
   {
     "Author": "Ada Lyia",
