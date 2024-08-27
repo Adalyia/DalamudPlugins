@@ -63,5 +63,26 @@
     "DownloadLinkTesting": "https://github.com/Adalyia/SubDataLogger/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Adalyia/SubDataLogger/releases/latest/download/latest.zip",
     "Changelog": "Release 0.0.0.6 - Dawntrail"
+  },
+  {
+    "Author": "Ada Lyia",
+    "Name": "RaidNotes",
+    "InternalName": "RaidNotes",
+    "Punchline": "Dynamic encounter notes.",
+    "Description": "Dynamic encounter notes for that reminder you so sorely need. /notes",
+    "AssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/Adalyia/RaidNotes",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/Adalyia/RaidNotes/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Adalyia/RaidNotes/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Adalyia/RaidNotes/releases/latest/download/latest.zip",
+    "Changelog": "Release 0.0.0.1"
   }
 ]
