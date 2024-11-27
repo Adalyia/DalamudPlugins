@@ -27,8 +27,8 @@
     "InternalName": "RPLogger",
     "Punchline": "An automated scribe documenting your adventures in Eorzea",
     "Description": "An automated scribe documenting your adventures in Eorzea. /rpl for configuration.",
-    "AssemblyVersion": "1.2.0.9",
-    "TestingAssemblyVersion": "1.2.0.9",
+    "AssemblyVersion": "1.2.0.10",
+    "TestingAssemblyVersion": "1.2.0.10",
     "RepoUrl": "https://github.com/Adalyia/RPLogger",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
@@ -41,7 +41,7 @@
     "DownloadLinkTesting": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Adalyia/RPLogger/releases/latest/download/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Adalyia/RPLogger/master/images/icon.png",
-    "Changelog": "Release 1.2.0.9 - Dawntrail"
+    "Changelog": "Release 1.2.0.10 - 7.1"
   },
   {
     "Author": "Ada Lyia",
@@ -49,8 +49,8 @@
     "InternalName": "SubDataLogger",
     "Punchline": "Automates logging of voyage loot.",
     "Description": "Automates logging of voyage loot. /sdata",
-    "AssemblyVersion": "0.0.0.6",
-    "TestingAssemblyVersion": "0.0.0.6",
+    "AssemblyVersion": "0.0.0.7",
+    "TestingAssemblyVersion": "0.0.0.7",
     "RepoUrl": "https://github.com/Adalyia/SubDataLogger",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
@@ -62,7 +62,7 @@
     "DownloadLinkInstall": "https://github.com/Adalyia/SubDataLogger/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/Adalyia/SubDataLogger/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Adalyia/SubDataLogger/releases/latest/download/latest.zip",
-    "Changelog": "Release 0.0.0.6 - Dawntrail"
+    "Changelog": "Release 0.0.0.7 - 7.1"
   },
   {
     "Author": "Ada Lyia",
