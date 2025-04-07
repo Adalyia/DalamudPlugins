@@ -70,11 +70,11 @@
     "InternalName": "RaidNotes",
     "Punchline": "Dynamic encounter notes.",
     "Description": "Dynamic encounter notes for that reminder you so sorely need. /notes",
-    "AssemblyVersion": "0.0.0.2",
-    "TestingAssemblyVersion": "0.0.0.2",
+    "AssemblyVersion": "0.0.0.3",
+    "TestingAssemblyVersion": "0.0.0.3",
     "RepoUrl": "https://github.com/Adalyia/RaidNotes",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
@@ -83,6 +83,6 @@
     "DownloadLinkInstall": "https://github.com/Adalyia/RaidNotes/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/Adalyia/RaidNotes/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Adalyia/RaidNotes/releases/latest/download/latest.zip",
-    "Changelog": "Release 0.0.0.2"
+    "Changelog": "Release 0.0.0.3"
   }
 ]
