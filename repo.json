@@ -49,8 +49,8 @@
     "InternalName": "SubDataLogger",
     "Punchline": "Automates logging of voyage loot.",
     "Description": "Automates logging of voyage loot. /sdata",
-    "AssemblyVersion": "0.0.0.10",
-    "TestingAssemblyVersion": "0.0.0.10",
+    "AssemblyVersion": "0.0.0.11",
+    "TestingAssemblyVersion": "0.0.0.11",
     "RepoUrl": "https://github.com/Adalyia/SubDataLogger",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -62,7 +62,7 @@
     "DownloadLinkInstall": "https://github.com/Adalyia/SubDataLogger/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/Adalyia/SubDataLogger/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Adalyia/SubDataLogger/releases/latest/download/latest.zip",
-    "Changelog": "Release 0.0.0.10"
+    "Changelog": "Release 0.0.0.11"
   },
   {
     "Author": "Ada Lyia",
